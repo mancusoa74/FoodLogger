@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544855950981",
+    "firebase_url": "https://itracker-256719.firebaseio.com",
+    "project_id": "itracker-256719",
+    "storage_bucket": "itracker-256719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544855950981:android:1356559515e3d3c1b6cbec",
+        "android_client_info": {
+          "package_name": "foodlogger.barhsw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544855950981-75beccar8e4n0quvk9iclq4qivet3btk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwGCTFJX2_VA1tJPfpsQpSYl_u2T_uK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544855950981-75beccar8e4n0quvk9iclq4qivet3btk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
